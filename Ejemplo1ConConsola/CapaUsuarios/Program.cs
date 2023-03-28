@@ -17,6 +17,7 @@ namespace CapaUsuarios
             int d;
             string n;
             DateTime f;
+            //Esto es para ingresar un dni.
             Console.Write("Dni: ");
             d = int.Parse(Console.ReadLine());
             Console.Write("Nombre: ");
